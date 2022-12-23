@@ -1,0 +1,28 @@
+#back{
+
+    background-color: aqua;
+}
+.dis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    font-size:3cm;
+    font-weight:bold;
+    height:100vh;
+
+}
+.di{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:3cm;
+    font-weight:bold;
+    background-image:url('./images/happy-independence-india-tricolor.gif');
+    background-position: center;
+    background-size: cover;
+}
+
+body
+{background-color: rgb(251, 255, 0);}
